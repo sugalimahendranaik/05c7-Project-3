@@ -5,8 +5,8 @@ nav{
 }
 nav ul{
     list-style-type: none;
-    margin: 5;
-    padding: 5;
+    margin: 2;
+    padding: 2;
 }
 nav ul li{
     display: inline;
